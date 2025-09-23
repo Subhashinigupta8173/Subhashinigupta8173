@@ -1,13 +1,14 @@
-# Oye_Subhashini 👋
+# Hi, I'm Subhashini Gupta 👩‍💻
 
-Hi, I am **Subhashini Gupta**, a **B.Tech 3rd year student** specializing in **Computer Science & Cloud Computing**.
+I'm a **Software Engineer** currently pursuing **B.Tech in Computer Science** with a specialization in **Cloud Computing**.  
+I have hands-on experience in **Java**, **Python**, **AWS**, **Docker**, and **Kubernetes**.
 
 ---
 
 ### 🔭 About Me
-- I am a passionate **Software Engineer** with skills in **Java**, **Python**, **AWS**, **Docker**, and **Kubernetes**.
-- I love building **web applications**, **cloud solutions**, and contributing to **open-source**.
-- Always eager to **learn new technologies** and solve real-world problems.
+- Passionate about building **scalable applications** and **cloud-native solutions**.
+- Interested in **Software Engineering**, **DevOps**, and **Cloud Technologies**.
+- Always learning and contributing to **open-source projects**.
 
 ---
 
@@ -23,17 +24,13 @@ Hi, I am **Subhashini Gupta**, a **B.Tech 3rd year student** specializing in **C
 
 ---
 
-### 💻 Projects to Showcase
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Multi-Cloud Management System** | Manage cloud resources across AWS, Azure, and GCP | Java, Docker, Kubernetes, AWS |
-| **Instagram Clone** | Social media app clone | React, Node.js, MongoDB |
-| **Quiz Application** | Web quiz app with gamification | React, API, JS, CSS |
+### 💻 Featured Project: [3D Portfolio](https://github.com/Subhashinigupta8173/3D_portfolio)
+
+A visually appealing **3D portfolio** built using **React** and **JavaScript**. This project showcases my skills and projects in an interactive manner.
 
 ---
 
-### 📫 Connect with me
-
+### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -45,4 +42,4 @@ Hi, I am **Subhashini Gupta**, a **B.Tech 3rd year student** specializing in **C
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
