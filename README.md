@@ -46,7 +46,8 @@
 - 🌱 Currently learning **Cloud Native Development**
 - ⚡ Fun fact: *I love exploring DevOps & Cloud tools while coding in Java/Python!*
 - 👀 Profile Visitors  
-  ![Visitor Count](https://Subhashinigupta8173)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Subhashinigupta8173&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ---
 
