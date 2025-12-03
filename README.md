@@ -1,77 +1,72 @@
-<!-- Profile README for Subhahini Gupta -->
+<!-- Creative & Professional GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Subhahini Gupta</h1>
-<h3 align="center">🚀 B.Tech 3rd Year | Software Engineer | Cloud Enthusiast ☁️</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Subhahini Gupta</span></h1>
+<h3 align="center">💻 B.Tech 3rd Year | Web Developer | Java Programmer | Cloud Enthusiast ☁️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Java+%7C+PHP+%7C+React;Cloud+Computing+Learner;Turning+Ideas+Into+Reality+with+Code" />
+</p>
 
 ---
 
 ### 🌟 About Me
-- 🎓 I'm a **3rd year B.Tech student** passionate about **software engineering**  
-- 💻 Skilled in **Java** & **Python**  
-- ☁️ Specializing in **Cloud Computing (AWS, Docker, Kubernetes)**  
-- 🚀 Always curious to learn new technologies & build real-world projects  
+🎓 3rd Year **B.Tech student** passionate about software and web development.  
+💻 Experienced in **Java programming & full-stack web development**.  
+🌐 Building modern, responsive and scalable **web applications**.  
+☁️ Exploring **Cloud Computing & DevOps** to become future-ready.
 
 ---
 
-### 📫 Connect With Me
+### 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
-  
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack (Skills)
 <p align="center">
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
-  
-  <!-- Kubernetes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,mysql,git,github" />
 </p>
 
+#### 🔥 Expertise Breakdown
+| Category | Technologies |
+|----------|--------------|
+| 💻 Web Development | **HTML, CSS, JavaScript, PHP** |
+| ⚛️ Frontend Framework | **React** |
+| ☕ Backend / Core Language | **Java** |
+| 🗄️ Database | **MySQL** |
+| 🔧 Tools | **VS Code, Git, GitHub** |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhashinigupta8173&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashinigupta8173&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhashinigupta8173&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashinigupta8173&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-### ✨ Fun Section
-- 🌱 Currently learning **Cloud Native Development**  
-- ⚡ Fun fact: *I love exploring DevOps & Cloud tools while coding in Java/Python!*  
+### 🚀 Current Focus
+✔ Improving **React Projects**  
+✔ Learning **Cloud & DevOps** (AWS + Docker)  
+✔ Building **portfolio-level web apps**
+
+---
+
+### ✨ Fun Fact
+😄 I enjoy creating responsive UI first and then bringing it to life using backend logic.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&style=flat-square&color=6C63FF" />
 </div>
 
----
-
-⭐️ From [Subhahini Gupta](https://github.com/Subhashinigupta8173)
+<h3 align="center">🌟 Thank you for visiting my profile! Don't forget to ⭐ my repositories</h3>
