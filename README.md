@@ -141,14 +141,21 @@ A modern social-media interface with responsive UI and interactive components.
 
 ---
 
-## 💻 Most Used Languages
+## 💻 My Development Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashinigupta8173&layout=compact&theme=radical&hide_border=true" width="45%"/>
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql&perline=6" />
+
+<br><br>
+
+### ☕ Java
+### 🚀 Spring Boot
+### ⚛️ JavaScript & React
+### 🗄️ MySQL & MongoDB
+### 🌐 HTML & CSS
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
