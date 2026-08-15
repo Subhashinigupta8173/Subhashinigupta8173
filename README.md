@@ -4,132 +4,156 @@
 
 <br>
 
-# ✨ Hi, I'm Subhashini Gupta ✨
+# ✨ SUBHASHINI GUPTA
 
-### ☕ Java Developer | 🚀 Spring Boot | ⚛️ React | ☁️ Cloud
+### ☕ Java Developer • Spring Boot • Backend • Full Stack
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=B020F0&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Spring+Boot+Developer+%F0%9F%9A%80;Backend+%26+Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=BB86FC&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Scalable+Backend+Systems+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Cloud;Turning+Ideas+Into+Working+Applications+%E2%9C%A8"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&label=PROFILE+VIEWS&color=B020F0&style=for-the-badge"/>
+<a href="https://github.com/Subhashinigupta8173">
+<img src="https://img.shields.io/badge/GitHub-Subhashini%20Gupta-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-```java
-public class Subhashini {
+<table>
+<tr>
+<td width="55%">
 
-    String role = "Java Developer";
+### Hey! I'm Subhashini 👋
 
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "React",
-        "MySQL",
-        "MongoDB",
-        "AWS",
-        "Docker"
-    };
+I'm a **Java Developer** passionate about building reliable, scalable and user-friendly applications.
 
-    String passion = "Building scalable web applications";
+My primary focus is **Java backend development with Spring Boot**, while I also enjoy working with React to create complete full-stack applications.
 
-    String goal = "Become a strong Software Engineer 🚀";
-}
+* ☕ Java & Object-Oriented Programming
+* 🚀 Spring Boot & REST APIs
+* 🗄️ MySQL & MongoDB
+* ⚛️ React & JavaScript
+* ☁️ AWS & Docker
+* 🧠 Data Structures & Algorithms
+
+</td>
+
+<td width="45%">
+
+```text
+┌──────────────────────────┐
+│     DEVELOPER PROFILE    │
+├──────────────────────────┤
+│ ☕ Java        █████████  │
+│ 🚀 Spring     ████████░  │
+│ ⚛️ React      ███████░░  │
+│ 🗄️ Database   ████████░  │
+│ ☁️ Cloud      ██████░░░  │
+│ 🧠 DSA        ███████░░  │
+└──────────────────────────┘
 ```
 
-* ☕ Passionate about **Java & Backend Development**
-* 🚀 Building applications using **Spring Boot**
-* 🔗 Developing **REST APIs**
-* ⚛️ Creating modern interfaces using **React**
-* 🗄️ Working with **MySQL & MongoDB**
-* ☁️ Exploring **AWS & Docker**
-* 🧠 Practicing **DSA & problem solving**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
 
-### ☕ Backend
+### ☕ Backend Development
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
 
-### 🎨 Frontend
+<br><br>
+
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+<br><br>
 
 ### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-### ☁️ Cloud & DevOps
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+### ☁️ Cloud • DevOps • Tools
 
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,idea"/>
 
 </div>
 
 ---
 
-## 🚀 What I Work With
+# 🚀 What I Do
 
 <div align="center">
 
-|  💻 Backend | 🌐 Frontend | 🗄️ Database | ☁️ Cloud |
-| :---------: | :---------: | :----------: | :------: |
-|     Java    |    React    |     MySQL    |    AWS   |
-| Spring Boot |  JavaScript |    MongoDB   |  Docker  |
-|  Spring MVC |   HTML/CSS  |   Mongoose   |    Git   |
-|  REST APIs  |   Tailwind  |              |  GitHub  |
+| ☕ Java Development |    🚀 Spring Boot    |     ⚛️ Full Stack    |
+| :----------------: | :------------------: | :------------------: |
+|         OOP        |       REST APIs      |         React        |
+|     Collections    |      Spring MVC      |      JavaScript      |
+|         DSA        |     Backend APIs     |     Responsive UI    |
+| Exception Handling | Database Integration | Frontend Integration |
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
+
+<div align="center">
 
 ### 🚗 Ride Sharing Platform
 
 **Java • Spring Boot • REST API • MySQL**
 
-A backend-focused ride-sharing application designed with Spring Boot and RESTful APIs.
+A backend application designed to manage ride-sharing functionality through RESTful APIs.
 
----
+<br>
 
 ### 📊 Automated Data Visualization Dashboard
 
-**React • Vite • Tailwind • Backend APIs**
+**React • Vite • Tailwind • APIs**
 
-Upload CSV/Excel data and generate meaningful visualizations and dashboards automatically.
+A dashboard that processes uploaded CSV/Excel data and generates meaningful visualizations.
 
----
+<br>
 
 ### 🛍️ Full Stack Shopping Application
 
 **Node.js • Express • MongoDB • EJS**
 
-A complete shopping application with products, reviews, authentication and database integration.
+An e-commerce application with product management, reviews and database integration.
 
----
+<br>
 
 ### 📸 Instagram Clone
 
 **React • JavaScript • CSS**
 
-A modern social-media interface with responsive UI and interactive components.
+A responsive social-media application focused on modern UI and interactive frontend features.
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -141,24 +165,7 @@ A modern social-media interface with responsive UI and interactive components.
 
 ---
 
-## 💻 My Development Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql&perline=6" />
-
-<br><br>
-
-### ☕ Java
-### 🚀 Spring Boot
-### ⚛️ JavaScript & React
-### 🗄️ MySQL & MongoDB
-### 🌐 HTML & CSS
-
-</div>
----
-
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -168,7 +175,7 @@ A modern social-media interface with responsive UI and interactive components.
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Journey
 
 <div align="center">
 
@@ -178,43 +185,54 @@ A modern social-media interface with responsive UI and interactive components.
 
 ---
 
-## 🧠 Currently Learning
+# 📚 Currently Learning
 
 <div align="center">
 
-☕ **Advanced Java**
-
-🚀 **Spring Boot**
-
-🔗 **REST API Development**
-
-🏗️ **System Design**
-
-🧩 **Data Structures & Algorithms**
-
-☁️ **AWS & Docker**
+| 🔥 Area        | 🎯 Focus                         |
+| :------------- | :------------------------------- |
+| ☕ Java         | Advanced Java & DSA              |
+| 🚀 Spring Boot | REST APIs & Backend Architecture |
+| 🏗️ Backend    | Scalable Application Design      |
+| 🧩 DSA         | Problem Solving                  |
+| ☁️ Cloud       | AWS & Docker                     |
+| ⚛️ React       | Modern Frontend Development      |
 
 </div>
 
 ---
 
-## 💡 Developer Mindset
+# 🎯 2026 Goals
+
+```text
+☑ Strengthen Java fundamentals
+☑ Master Spring Boot
+☑ Build production-ready REST APIs
+☑ Improve DSA & problem solving
+☑ Build scalable full-stack applications
+☑ Learn more about Cloud & DevOps
+☐ Become a strong Software Engineer 🚀
+```
+
+---
+
+# 💭 Developer Philosophy
 
 <div align="center">
 
-### `"Code. Learn. Build. Repeat. 🚀"`
+### ☕ Code with purpose.
 
-☕ Java is my weapon
-🚀 Spring Boot is my backend
-⚛️ React is my frontend
-🧠 DSA is my practice
-☁️ Cloud is my playground
+### 🧠 Learn continuously.
+
+### 🚀 Build consistently.
+
+### ✨ Improve every day.
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+# 🌐 Let's Connect
 
 <div align="center">
 
@@ -227,7 +245,7 @@ A modern social-media interface with responsive UI and interactive components.
 </a>
 
 <a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -236,10 +254,8 @@ A modern social-media interface with responsive UI and interactive components.
 
 <div align="center">
 
-⭐ **If you like my work, consider starring my repositories!**
+### ⭐ Thanks for visiting my profile!
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
