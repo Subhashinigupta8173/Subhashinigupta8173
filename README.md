@@ -1,183 +1,179 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f001a,50:6d28d9,100:c084fc&height=230&section=header&text=SUBHASHINI%20GUPTA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=java%20girlie%20%7C%20spring%20boot%20%7C%20building%20stuff&descAlignY=60&descSize=18"/>
 
 <br>
 
-# ✨ SUBHASHINI GUPTA
-
-### ☕ Java Developer • Spring Boot • Backend • Full Stack
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=BB86FC&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Scalable+Backend+Systems+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Cloud;Turning+Ideas+Into+Working+Applications+%E2%9C%A8"/>
-</p>
-
-<a href="https://github.com/Subhashinigupta8173">
-<img src="https://img.shields.io/badge/GitHub-Subhashini%20Gupta-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=600&color=C084FC&center=true&vCenter=true&width=700&lines=☕+coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+debug;💀+Java+said%3A+learn+OOP;🚀+Spring+Boot+said%3A+build+an+API;🧠+DSA+said%3A+good+luck;✨+still+shipping+anyway"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,mysql,mongodb,aws,docker,git,github&theme=dark"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+<div align="center">
+
+# hey, I'm Subhashini 👋🏻
+
+### ☕ java girlie building backend things with Spring Boot
+
+`currently.exe → learning • building • breaking • fixing`
+
+</div>
+
+<br>
+
+```text id="n0a4ki"
+╭──────────────────────────────────────────────╮
+│                                              │
+│  $ whoami                                    │
+│                                              │
+│  → Java Developer ☕                         │
+│  → Spring Boot enjoyer 🚀                    │
+│  → React enjoyer ⚛️                          │
+│  → DSA survivor 💀                           │
+│  → Bug fixer (eventually) 🐛                 │
+│                                              │
+│  status: probably coding                     │
+│  mood: coffee dependent ☕                   │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+<div align="center">
+
+## 🧃 my tech lore
+
+</div>
+
+**main character energy:** ☕ Java + Spring Boot
+
+**side quests:** ⚛️ React • 🗄️ MySQL • 🍃 MongoDB
+
+**cloud era:** ☁️ AWS • 🐳 Docker
+
+**daily boss fight:** 🧩 DSA
+
+**favorite activity:** fixing a bug I definitely didn't create 💀
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,mysql,mongodb,aws,docker,git,github,postman&perline=7&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 stuff I cooked
+
+</div>
 
 <table>
 <tr>
-<td width="55%">
 
-### Hey! I'm Subhashini 👋
+<td width="50%" align="center">
 
-I'm a **Java Developer** passionate about building reliable, scalable and user-friendly applications.
+### 🚗 Ride Sharing Platform
 
-My primary focus is **Java backend development with Spring Boot**, while I also enjoy working with React to create complete full-stack applications.
+☕ `Java`
+🚀 `Spring Boot`
+🔗 `REST API`
+🗄️ `MySQL`
 
-* ☕ Java & Object-Oriented Programming
-* 🚀 Spring Boot & REST APIs
-* 🗄️ MySQL & MongoDB
-* ⚛️ React & JavaScript
-* ☁️ AWS & Docker
-* 🧠 Data Structures & Algorithms
+**backend things, but make them scalable.**
 
 </td>
 
-<td width="45%">
+<td width="50%" align="center">
 
-```text
-┌──────────────────────────┐
-│     DEVELOPER PROFILE    │
-├──────────────────────────┤
-│ ☕ Java        █████████  │
-│ 🚀 Spring     ████████░  │
-│ ⚛️ React      ███████░░  │
-│ 🗄️ Database   ████████░  │
-│ ☁️ Cloud      ██████░░░  │
-│ 🧠 DSA        ███████░░  │
-└──────────────────────────┘
-```
+### 📊 Data Visualization
+
+⚛️ `React`
+⚡ `Vite`
+🎨 `Tailwind`
+
+**upload data → make it pretty → profit 📈**
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🛍️ Shopping App
+
+🟢 `Node.js`
+⚡ `Express`
+🍃 `MongoDB`
+
+**products + reviews + backend chaos**
+
+</td>
+
+<td width="50%" align="center">
+
+### 📸 Instagram Clone
+
+⚛️ `React`
+🟨 `JavaScript`
+🎨 `CSS`
+
+**because apparently building Instagram is a rite of passage.**
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🧰 Tech Stack
-
 <div align="center">
 
-### ☕ Backend Development
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
-
-<br><br>
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<br><br>
-
-### ☁️ Cloud • DevOps • Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,idea"/>
+## 🧠 currently in my learning arc
 
 </div>
 
----
+```text id="l9q2nq"
+Java                 ████████████████████  90%
+Spring Boot          ████████████████░░░░  80%
+DSA                  ███████████████░░░░░  75%
+React                ██████████████░░░░░░  70%
+AWS                  ███████████░░░░░░░░░  55%
+System Design        ████████░░░░░░░░░░░░  40%
+```
 
-# 🚀 What I Do
-
-<div align="center">
-
-| ☕ Java Development |    🚀 Spring Boot    |     ⚛️ Full Stack    |
-| :----------------: | :------------------: | :------------------: |
-|         OOP        |       REST APIs      |         React        |
-|     Collections    |      Spring MVC      |      JavaScript      |
-|         DSA        |     Backend APIs     |     Responsive UI    |
-| Exception Handling | Database Integration | Frontend Integration |
-
-</div>
+*progress bars are vibes, not scientifically measured 😭*
 
 ---
 
-# 🌟 Featured Projects
-
 <div align="center">
 
-### 🚗 Ride Sharing Platform
-
-**Java • Spring Boot • REST API • MySQL**
-
-A backend application designed to manage ride-sharing functionality through RESTful APIs.
+## 📊 the GitHub receipts 📸
 
 <br>
 
-### 📊 Automated Data Visualization Dashboard
+<img src="https://github-readme-stats.vercel.app/api?username=Subhashinigupta8173&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D14&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF" width="48%"/>
 
-**React • Vite • Tailwind • APIs**
-
-A dashboard that processes uploaded CSV/Excel data and generates meaningful visualizations.
-
-<br>
-
-### 🛍️ Full Stack Shopping Application
-
-**Node.js • Express • MongoDB • EJS**
-
-An e-commerce application with product management, reviews and database integration.
-
-<br>
-
-### 📸 Instagram Clone
-
-**React • JavaScript • CSS**
-
-A responsive social-media application focused on modern UI and interactive frontend features.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashinigupta8173&theme=dark&hide_border=true&background=0D0D14&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" width="48%"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Subhashinigupta8173&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashinigupta8173&theme=radical&hide_border=true" width="48%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashinigupta8173&theme=react-dark&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
+## 🐍 contribution therapy
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
@@ -185,77 +181,73 @@ A responsive social-media application focused on modern UI and interactive front
 
 ---
 
-# 📚 Currently Learning
-
 <div align="center">
 
-| 🔥 Area        | 🎯 Focus                         |
-| :------------- | :------------------------------- |
-| ☕ Java         | Advanced Java & DSA              |
-| 🚀 Spring Boot | REST APIs & Backend Architecture |
-| 🏗️ Backend    | Scalable Application Design      |
-| 🧩 DSA         | Problem Solving                  |
-| ☁️ Cloud       | AWS & Docker                     |
-| ⚛️ React       | Modern Frontend Development      |
-
-</div>
-
----
-
-# 🎯 2026 Goals
+## 💀 average debugging session
 
 ```text
-☑ Strengthen Java fundamentals
-☑ Master Spring Boot
-☑ Build production-ready REST APIs
-☑ Improve DSA & problem solving
-☑ Build scalable full-stack applications
-☑ Learn more about Cloud & DevOps
-☐ Become a strong Software Engineer 🚀
+works on my machine
+        ↓
+works nowhere
+        ↓
+Google
+        ↓
+Stack Overflow
+        ↓
+change one line
+        ↓
+IT WORKS 🚀
+        ↓
+don't touch the code
 ```
 
----
-
-# 💭 Developer Philosophy
-
-<div align="center">
-
-### ☕ Code with purpose.
-
-### 🧠 Learn continuously.
-
-### 🚀 Build consistently.
-
-### ✨ Improve every day.
-
 </div>
 
 ---
 
-# 🌐 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/Subhashinigupta8173">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🎯 2026 arc
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+☕ master Java
+🚀 get really good at Spring Boot
+🧠 level up DSA
+🏗️ learn System Design
+☁️ go deeper into AWS
+💼 land that dream SDE role
 
 <br>
 
+### `loading... ███████████████░░░ 85%`
+
+</div>
+
+---
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🫶🏻 if you're here...
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+thanks for stalking my GitHub respectfully 👀
+
+<br>
+
+<a href="https://github.com/Subhashinigupta8173">
+<img src="https://img.shields.io/badge/github-follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/linkedin-lets%20connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&style=for-the-badge&color=C084FC&label=GITHUB+STALKERS"/>
+
+<br><br>
+
+### ☕ code hard. stay curious. touch grass sometimes. 🌱
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f001a,50:6d28d9,100:c084fc&height=130&section=footer"/>
 
 </div>
