@@ -1,24 +1,18 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
 <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%"/>
 
-<br/>
+<br>
 
-<h1>✨ Hi, I'm Subhashini Gupta ✨</h1>
+# ✨ Hi, I'm Subhashini Gupta ✨
 
-<h3>☕ Java Developer | 🚀 Spring Boot | ⚛️ React | ☁️ Cloud & Backend</h3>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=B020F0&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Spring+Boot+Developer+%F0%9F%9A%80;Backend+%26+Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications+%E2%9C%A8" />
-</p>
+### ☕ Java Developer | 🚀 Spring Boot | ⚛️ React | ☁️ Cloud
 
 <p>
-  <a href="https://github.com/Subhashinigupta8173">
-    <img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=B020F0&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Spring+Boot+Developer+%F0%9F%9A%80;Backend+%26+Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications+%E2%9C%A8" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Subhashinigupta8173&label=PROFILE+VIEWS&color=B020F0&style=for-the-badge"/>
 
 </div>
 
@@ -34,7 +28,6 @@ public class Subhashini {
     String[] skills = {
         "Java",
         "Spring Boot",
-        "Spring MVC",
         "REST APIs",
         "React",
         "MySQL",
@@ -43,18 +36,19 @@ public class Subhashini {
         "Docker"
     };
 
-    String passion = "Building scalable & user-friendly applications";
+    String passion = "Building scalable web applications";
 
     String goal = "Become a strong Software Engineer 🚀";
 }
 ```
 
-💜 Passionate about **Java backend development**
-☕ Building applications with **Java & Spring Boot**
-🚀 Interested in **REST APIs, Microservices & Backend Architecture**
-⚛️ Comfortable working with **React** for frontend development
-☁️ Exploring **AWS, Docker & Cloud technologies**
-🧠 Practicing **DSA and problem solving** regularly
+* ☕ Passionate about **Java & Backend Development**
+* 🚀 Building applications using **Spring Boot**
+* 🔗 Developing **REST APIs**
+* ⚛️ Creating modern interfaces using **React**
+* 🗄️ Working with **MySQL & MongoDB**
+* ☁️ Exploring **AWS & Docker**
+* 🧠 Practicing **DSA & problem solving**
 
 ---
 
@@ -86,16 +80,16 @@ public class Subhashini {
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Work With
 
 <div align="center">
 
-|  💻 Backend | 🌐 Full Stack |     ☁️ Cloud     |
-| :---------: | :-----------: | :--------------: |
-|     Java    |     React     |        AWS       |
-| Spring Boot |   REST APIs   |      Docker      |
-|  Spring MVC |     MySQL     | Cloud Deployment |
-|   REST API  |    MongoDB    |      DevOps      |
+|  💻 Backend | 🌐 Frontend | 🗄️ Database | ☁️ Cloud |
+| :---------: | :---------: | :----------: | :------: |
+|     Java    |    React    |     MySQL    |    AWS   |
+| Spring Boot |  JavaScript |    MongoDB   |  Docker  |
+|  Spring MVC |   HTML/CSS  |   Mongoose   |    Git   |
+|  REST APIs  |   Tailwind  |              |  GitHub  |
 
 </div>
 
@@ -103,21 +97,35 @@ public class Subhashini {
 
 ## 🌟 Featured Projects
 
-### 🏦 Ride Sharing Platform
+### 🚗 Ride Sharing Platform
 
-> A backend-focused application built using **Java, Spring Boot, REST APIs and MySQL**.
+**Java • Spring Boot • REST API • MySQL**
+
+A backend-focused ride-sharing application designed with Spring Boot and RESTful APIs.
+
+---
 
 ### 📊 Automated Data Visualization Dashboard
 
-> Upload CSV/Excel files and automatically generate meaningful visualizations and dashboards.
+**React • Vite • Tailwind • Backend APIs**
+
+Upload CSV/Excel data and generate meaningful visualizations and dashboards automatically.
+
+---
 
 ### 🛍️ Full Stack Shopping Application
 
-> Full-stack application with product management, authentication, reviews and database integration.
+**Node.js • Express • MongoDB • EJS**
+
+A complete shopping application with products, reviews, authentication and database integration.
+
+---
 
 ### 📸 Instagram Clone
 
-> Modern social-media interface built using **React** with responsive UI and interactive components.
+**React • JavaScript • CSS**
+
+A modern social-media interface with responsive UI and interactive components.
 
 ---
 
@@ -133,7 +141,17 @@ public class Subhashini {
 
 ---
 
-## 📈 Contribution Graph
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashinigupta8173&layout=compact&theme=radical&hide_border=true" width="45%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -143,17 +161,7 @@ public class Subhashini {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Subhashinigupta8173&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🐍 My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -163,16 +171,36 @@ public class Subhashini {
 
 ---
 
+## 🧠 Currently Learning
+
+<div align="center">
+
+☕ **Advanced Java**
+
+🚀 **Spring Boot**
+
+🔗 **REST API Development**
+
+🏗️ **System Design**
+
+🧩 **Data Structures & Algorithms**
+
+☁️ **AWS & Docker**
+
+</div>
+
+---
+
 ## 💡 Developer Mindset
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat. 🚀"**
+### `"Code. Learn. Build. Repeat. 🚀"`
 
 ☕ Java is my weapon
-🧠 DSA is my practice
 🚀 Spring Boot is my backend
 ⚛️ React is my frontend
+🧠 DSA is my practice
 ☁️ Cloud is my playground
 
 </div>
@@ -197,11 +225,13 @@ public class Subhashini {
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+⭐ **If you like my work, consider starring my repositories!**
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
